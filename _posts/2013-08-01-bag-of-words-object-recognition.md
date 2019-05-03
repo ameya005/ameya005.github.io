@@ -13,7 +13,7 @@ tags:
 author: ameya005
 comments: true
 layout: post
-link: https://ameyajoshi005.wordpress.com/2013/08/01/bag-of-words-object-recognition/
+permalink: /posts/2013/08/01/bag-of-words-object-recognition/
 wordpress_id: 170
 ---
 

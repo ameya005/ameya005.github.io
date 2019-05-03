@@ -13,7 +13,7 @@ tags:
 author: ameya005
 comments: true
 layout: post
-link: https://ameyajoshi005.wordpress.com/2012/10/05/ant-colony-algorithms/
+permalink: /posts/2012/10/05/ant-colony-algorithms/
 wordpress_id: 78
 ---
 

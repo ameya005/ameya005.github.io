@@ -12,7 +12,7 @@ tags:
 author: ameya005
 comments: true
 layout: post
-link: https://ameyajoshi005.wordpress.com/2013/12/04/superpixels-slic-and-more/
+permalink: /posts/2013/12/04/superpixels-slic-and-more/
 wordpress_id: 182
 ---
 

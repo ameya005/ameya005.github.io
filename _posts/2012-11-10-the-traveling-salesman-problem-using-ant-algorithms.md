@@ -13,7 +13,7 @@ tags:
 - Travelling salesman problem
 author: ameya005
 comments: true
-link: /posts/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/
+permalink: /posts/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/
 wordpress_id: 113
 ---
 

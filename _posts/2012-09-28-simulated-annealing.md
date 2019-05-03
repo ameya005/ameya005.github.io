@@ -13,7 +13,7 @@ tags:
 author: ameya005
 comments: true
 layout: post
-link: https://ameyajoshi005.wordpress.com/2012/09/28/simulated-annealing/
+permalink: /posts/2012/09/28/simulated-annealing/
 wordpress_id: 36
 ---
 
