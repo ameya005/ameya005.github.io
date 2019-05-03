@@ -1,6 +1,7 @@
 ---
 title: 'Bag of Words - Object Recognition '
-date: 2013-08-01 13:11:00 +05:30
+date: 2013-08-01 00:41:00 -07:00
+permalink: "/posts/2013/08/01/bag-of-words-object-recognition/"
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -13,7 +14,6 @@ tags:
 author: ameya005
 comments: true
 layout: post
-permalink: /posts/2013/08/01/bag-of-words-object-recognition/
 wordpress_id: 170
 ---
 

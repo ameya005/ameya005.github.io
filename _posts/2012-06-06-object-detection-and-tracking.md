@@ -1,11 +1,11 @@
 ---
 title: Object Detection and Tracking
-date: 2012-06-06 09:06:08 +05:30
+date: 2012-06-05 20:36:08 -07:00
+permalink: "/posts/2012/06/06/object-detection-and-tracking/"
 categories:
 - Augmented Reality
 author: ameya
 comments: true
-permalink: /posts/2012/06/06/object-detection-and-tracking/
 ---
 
 Couple of days ago, I was shown this video by one of my friends.

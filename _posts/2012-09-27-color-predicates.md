@@ -1,6 +1,7 @@
 ---
 title: Color Predicates
-date: 2012-09-28 00:47:09 +05:30
+date: 2012-09-27 12:17:09 -07:00
+permalink: "/posts/2012/09/28/color-predicates/"
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -8,7 +9,6 @@ tags:
 - programming
 author: ameya005
 comments: true
-permalink: /posts/2012/09/28/color-predicates/
 wordpress_id: 15
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Simulated Annealing
-date: 2012-09-28 15:11:31 +05:30
+date: 2012-09-28 02:41:31 -07:00
+permalink: "/posts/2012/09/28/simulated-annealing/"
 categories:
 - Artificial Intelligence
 tags:
@@ -13,7 +14,6 @@ tags:
 author: ameya005
 comments: true
 layout: post
-permalink: /posts/2012/09/28/simulated-annealing/
 wordpress_id: 36
 ---
 

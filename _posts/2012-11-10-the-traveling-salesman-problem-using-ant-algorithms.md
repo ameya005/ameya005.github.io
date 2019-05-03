@@ -1,6 +1,7 @@
 ---
 title: The Traveling Salesman Problem - Using Ant Algorithms
-date: 2012-11-10 23:43:41 +05:30
+date: 2012-11-10 10:13:41 -08:00
+permalink: "/posts/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/"
 categories:
 - Artificial Intelligence
 tags:
@@ -13,7 +14,6 @@ tags:
 - Travelling salesman problem
 author: ameya005
 comments: true
-permalink: /posts/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/
 wordpress_id: 113
 ---
 
