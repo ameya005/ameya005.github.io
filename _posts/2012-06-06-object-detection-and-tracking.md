@@ -6,7 +6,6 @@ categories:
 author: ameya
 comments: true
 permalink: /posts/2012/06/06/object-detection-and-tracking/
-wordpress_id: 10
 ---
 
 Couple of days ago, I was shown this video by one of my friends.
