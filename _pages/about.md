@@ -12,7 +12,7 @@ I am a first year PhD student at Iowa State University, being co-advised by [Dr.
 
 I used to be a Lead Computer Scientist at [Sigtuple Inc.](www.sigtuple.com) on learning systems for medical images.
 
-Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aware Complex Systems Lab](http://web.me.iastate.edu/soumiks////index.html).
+Visit our group websites at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aware Complex Systems Lab](http://web.me.iastate.edu/soumiks////index.html).
 
 ## Publications
 <small>`*` indicates equal contribution.</small>
