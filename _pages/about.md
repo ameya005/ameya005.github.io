@@ -19,7 +19,7 @@ Visit our group websites at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-A
 
 **Attribute-Controlled Traffic Data Augmentation Using Conditional Generative Models**
 Amitangshu Mukherjee, *Ameya Joshi*,  Soumik Sarkar, Chinmay Hegde <br>
-CVPR Workshop on Vision for All Seasons (VAS)' 19
+CVPR Workshop on Vision for All Seasons (VAS)' 19 <br>
 <a target="_blank" href="publications/attganVAS19.pdf">Paper</a>
 
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
