@@ -17,23 +17,28 @@ Visit our group websites at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-A
 ## Publications
 <small>`*` indicates equal contribution.</small>
 
+**Attribute-Controlled Traffic Data Augmentation Using Conditional Generative Models**
+Amitangshu Mukherjee, *Ameya Joshi*,  Soumik Sarkar, Chinmay Hegde <br>
+CVPR Workshop on Vision for All Seasons (VAS)' 19
+<a target="_blank" href="publications/attganVAS19.pdf">Paper</a>
+
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
-Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
+*Ameya Joshi*, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
 <a href="https://arxiv.org/pdf/1904.08489.pdf">Preprint</a>
 
 **Weakly supervised fluid filled region localization in retinal OCT scans**<br>
-ShahRukh Athar, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar <br>
+ShahRukh Athar, Abhishek Vahadane, *Ameya Joshi*, Tathagato Rai Dastidar <br>
 ISBI'18<br>
 <a target="_blank" href="publications/ISBI18_0472_FI.pdf">Paper</a>
 
 
 **Detection of diabetic macular edema in optical coherence tomography scans using patch based deep learning**<br>
-Abhishek Vahadane, Ameya Joshi, Kiran Madan, Tathagato Rai Dastidar<br>
+Abhishek Vahadane, *Ameya Joshi*, Kiran Madan, Tathagato Rai Dastidar<br>
 ISBI'18<br>
 <a target="_blank" href="publications/ISBI18_0159_FI.pdf">Paper</a>
 
 
 **Selective visualization of anomalies in fundus images via sparse and low rank decomposition**<br>
-Amol Mahurkar\*, Ameya Joshi\*, Naren Nallapareddy, Pradyumna Reddy, Micha Feigin, Achuta Kadambi, Ramesh Raskar<br>
+Amol Mahurkar\*, *Ameya Joshi*\*, Naren Nallapareddy, Pradyumna Reddy, Micha Feigin, Achuta Kadambi, Ramesh Raskar<br>
 ACM SIGGRAPH 2014 Posters<br>
 <a href="https://dl.acm.org/citation.cfm?id=2630595">Paper</a>
