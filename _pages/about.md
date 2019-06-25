@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
+title: About Me
+permalink: "/"
+excerpt: About me
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
 
 I am a first year PhD student at Iowa State University, being co-advised by [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/) and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative Adversarial Models for Physics Constrained models**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa.
