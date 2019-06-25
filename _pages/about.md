@@ -17,6 +17,10 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 ## Publications
 <small>`*` indicates equal contribution.</small>
 
+**Encoding Invariances with Deep Generative Models**<br>
+Viraj Shah\*, Ameya Joshi\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
+<a href="https://arxiv.org/abs/1906.01626">Preprint</a>
+
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
 Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
 <a href="https://arxiv.org/pdf/1904.08489.pdf">Preprint</a>
