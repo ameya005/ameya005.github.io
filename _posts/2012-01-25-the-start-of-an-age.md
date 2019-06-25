@@ -1,9 +1,9 @@
 ---
 title: The Start of An Age
-date: 2012-01-26 02:46:24 +05:30
+date: 2012-01-25 13:16:24 -08:00
+permalink: "/posts/2012/01/26/the-start-of-an-age/"
 author: ameya
 comments: true
-permalink: /posts/2012/01/26/the-start-of-an-age/
 ---
 
 It has been several years since blogging took the world by storm. And it has progressed from being a way to just put down your thoughts for the world to read to being an entirely new way to view the world.

@@ -21,6 +21,11 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 Viraj Shah\*, Ameya Joshi\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
 <a href="https://arxiv.org/abs/1906.01626">Preprint</a>
 
+**Attribute-Controlled Traffic Data Augmentation Using Conditional Generative Models**
+Amitangshu Mukherjee, *Ameya Joshi*,  Soumik Sarkar, Chinmay Hegde <br>
+CVPR Workshop on Vision for All Seasons (VAS)' 19 <br>
+<a target="_blank" href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Mukherjee_Attribute-Controlled_Traffic_Data_Augmentation_Using_Conditional_Generative_Models_CVPRW_2019_paper.pdf">Paper</a>
+
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
 Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
 <a href="https://arxiv.org/pdf/1904.08489.pdf">Preprint</a>

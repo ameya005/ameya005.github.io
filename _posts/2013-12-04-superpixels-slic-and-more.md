@@ -1,6 +1,7 @@
 ---
 title: 'SuperPixels: SLIC and more'
-date: 2013-12-04 13:02:41 +05:30
+date: 2013-12-03 23:32:41 -08:00
+permalink: "/posts/2013/12/04/superpixels-slic-and-more/"
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -12,7 +13,6 @@ tags:
 author: ameya005
 comments: true
 layout: post
-permalink: /posts/2013/12/04/superpixels-slic-and-more/
 wordpress_id: 182
 ---
 

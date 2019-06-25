@@ -1,6 +1,7 @@
 ---
 title: Ant Colony Algorithms
-date: 2012-10-05 16:44:48 +05:30
+date: 2012-10-05 04:14:48 -07:00
+permalink: "/posts/2012/10/05/ant-colony-algorithms/"
 categories:
 - Artificial Intelligence
 tags:
@@ -13,7 +14,6 @@ tags:
 author: ameya005
 comments: true
 layout: post
-permalink: /posts/2012/10/05/ant-colony-algorithms/
 wordpress_id: 78
 ---
 
