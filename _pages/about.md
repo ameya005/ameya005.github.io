@@ -17,6 +17,11 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 ## Publications
 <small>`*` indicates equal contribution.</small>
 
+**Semantic Domain Adaptation for Deep Classifiers via GAN-based Data Augmentation**
+Amitangshu Mukherjee, Ameya Joshi, Soumik Sarkar, Chinmay Hegde
+NeurIPS2019 Workshop on Machine Learning for Autonomous Driving
+*Paper to be released*
+
 **Encoding Invariances with Deep Generative Models**<br>
 Viraj Shah\*, Ameya Joshi\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
 <a href="https://arxiv.org/abs/1906.01626">Preprint</a>
