@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
+title: About Me
+permalink: "/"
+excerpt: About me
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
 
 I am a first year PhD student at Iowa State University, being co-advised by [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/) and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative Adversarial Models for Physics Constrained models**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa.
@@ -33,7 +33,8 @@ CVPR Workshop on Vision for All Seasons (VAS)' 19 <br>
 
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
 Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
-<a href="https://arxiv.org/pdf/1904.08489.pdf">Preprint</a>
+ICCV' 19
+<a href="https://arxiv.org/pdf/1904.08489.pdf">Paper</a>
 
 **Weakly supervised fluid filled region localization in retinal OCT scans**<br>
 ShahRukh Athar, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar <br>
