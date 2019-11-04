@@ -19,7 +19,7 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 
 **Generative Models for Solving Nonlinear Partial Differential Equations** <br>
 Ameya Joshi\*, Viraj Shah\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
-Workshop on Machine Learning for Physical Sciences at Neurips' 19 <br>
+Workshop on Machine Learning for Physical Sciences at NeurIPS' 19 <br>
 <a target="_blank" href="publications/PDE_MLPhysicsWorkshop_camera_ready.pdf">Paper</a>
 
 **Semantic Domain Adaptation for Deep Classifiers via GAN-based Data Augmentation**
