@@ -17,6 +17,11 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 ## Publications
 <small>`*` indicates equal contribution.</small>
 
+**InvNet: Encoding Invariances with Deep Generative Models**
+Ameya Joshi\*, Minsu Cho\*, Viraj Shah, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
+AAAI 2019 <br>
+*Paper to be released soon*
+
 **Generative Models for Solving Nonlinear Partial Differential Equations** <br>
 Ameya Joshi\*, Viraj Shah\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
 Workshop on Machine Learning for Physical Sciences at NeurIPS' 19 <br>
