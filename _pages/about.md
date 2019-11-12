@@ -17,7 +17,7 @@ Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aw
 ## Publications
 <small>`*` indicates equal contribution.</small>
 
-**InvNet: Encoding Invariances with Deep Generative Models**
+**InvNet: Encoding Invariances with Deep Generative Models** <br>
 Ameya Joshi\*, Minsu Cho\*, Viraj Shah, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
 AAAI 2019 <br>
 *Paper to be released soon*
