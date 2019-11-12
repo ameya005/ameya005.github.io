@@ -43,7 +43,7 @@ CVPR Workshop on Vision for All Seasons (VAS)' 19 <br>
 
 **Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers**
 Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde <br>
-ICCV' 19
+ICCV' 19 <br>
 <a href="https://arxiv.org/pdf/1904.08489.pdf">Paper</a>
 
 **Weakly supervised fluid filled region localization in retinal OCT scans**<br>
