@@ -8,7 +8,7 @@ redirect_from:
 - "/about.html"
 ---
 
-**Update: I will be moving to NYU Tandon University to continue my PhD. with Dr. Hegde**
+**Update: I will be moving to NYU Tandon University to continue my PhD. with Dr. Hegde.**
 
 I am a second year PhD student at Iowa State University, being co-advised by [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/) and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative Adversarial Models for Physics Constrained models**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa.
 
