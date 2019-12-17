@@ -8,7 +8,7 @@ redirect_from:
 - "/about.html"
 ---
 
-**Update: I will be moving to NYU Tandon University to continue my PhD. with Dr. Hegde.**
+**Update: I will be moving to NYU Tandon University in Spring 2020 to continue my PhD. with Dr. Hegde.**
 
 I am a second year PhD student at Iowa State University, being co-advised by [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/) and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative Adversarial Models for Physics Constrained models**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa.
 
@@ -33,7 +33,7 @@ Workshop on Machine Learning for Physical Sciences at NeurIPS' 19 <br>
 **Semantic Domain Adaptation for Deep Classifiers via GAN-based Data Augmentation**
 Amitangshu Mukherjee, Ameya Joshi, Soumik Sarkar, Chinmay Hegde <br>
 NeurIPS2019 Workshop on Machine Learning for Autonomous Driving <br>
-*Paper to be released*
+<a href="https://ml4ad.github.io/files/papers/Semantic%20Domain%20Adaptation%20for%20Deep%20Classifiers%20via%20GAN-based%20Data%20Augmentation.pdf">Paper</a>
 
 **Encoding Invariances with Deep Generative Models**<br>
 Viraj Shah\*, Ameya Joshi\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde <br>
