@@ -1,6 +1,6 @@
 ---
 title: Ameya Joshi
-timezone: America/Los_Angeles
+timezone: America/New_York
 collections:
   portfolio:
     title: Portfolio
@@ -8,7 +8,7 @@ collections:
     permalink: "/:collection/:path/"
   posts:
     title: Posts
-    output: true
+    output: false
   publications:
     title: Publications
     output: true
@@ -144,7 +144,7 @@ author:
     models and robust machine learning.
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
-  email: ameya@iastate.edu
+  email: ameya.joshi@nyu.edu
   github: ameya005
   linkedin: 
   orcid: 'https://orcid.org/0000-0003-1211-3945 '
