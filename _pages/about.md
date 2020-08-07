@@ -8,8 +8,8 @@ redirect_from:
 - "/about.html"
 ---
 
-I am a third year PhD student at NYU Tandon, being advised by [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/). I was previously a PhD student at Iowa State University with Dr. Hegde and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative Adversarial Models for Physics Constrained models**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa.
+I am a PhD student at NYU Tandon, being advised by [Dr. Chinmay Hegde](https://chinmayhegde.github.io/). I was previously a PhD student at Iowa State University (2018-2019) with Dr. Hegde and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative models with structured constraints**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa in 2014.
 
-I used to be a Lead Computer Scientist at [Sigtuple Inc.](www.sigtuple.com) and worked on learning based systems for medical images.
+I used to be a Lead Computer Scientist at [Sigtuple Inc.](www.sigtuple.com) and worked on learning based systems for medical images (retinal and radiological).
 
-Visit our group website at [DICE Lab](http://dice.ece.iastate.edu/) and [Self-Aware Complex Systems Lab](http://web.me.iastate.edu/soumiks////index.html).
+Visit our group website at [DICE Lab](https://chinmayhegde.github.io/) and [Self-Aware Complex Systems Lab](http://web.me.iastate.edu/soumiks////index.html).
