@@ -8,7 +8,7 @@ collections:
     permalink: "/:collection/:path/"
   posts:
     title: Posts
-    output: false
+    output: true
   publications:
     title: Publications
     output: true
