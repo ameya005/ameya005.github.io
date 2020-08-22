@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <small>`*` indicates equal contribution.</small>
 
 ## Conference/Workshops
-1. Ameya Joshi, Baskar Ganapathysubramanian, Soumik Sarkar, and Chinmay Hegde. Generative models for solving stochastic partial
+1. Ameya Joshi, Biswajit Khara, Baskar Ganapathysubramanian, Soumik Sarkar, and Chinmay Hegde. Generative models for solving stochastic partial
 differential equations. In Proceedings of Asilomar Conf. Sig. Sys. Comput., Nov. 2020
 
 2. Ameya Joshi\*, Minsu Cho\*, Viraj Shah, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde, InvNet: Encoding Invariances with Deep Generative Models, AAAI Conference on Artifical Intelligence, 2020 <br>
