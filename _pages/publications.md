@@ -9,15 +9,18 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 
 <small>`*` indicates equal contribution.</small>
 
+# Journal Publications
+
+1. X. Lee, J. R. Waite, C.-H. Yang, B. Pokuri, Ameya Joshi, A. Balu, C. Hegde, B. Ganapathysubramanian, and S. Sarkar, “Fast inversedesign of microstructures via generative invariance networks,”Nature Computational Science, 2020
+
 ## Conference/Workshops
 
-1. M. Cho\*, A. Joshi\*, X. Y. Lee, et al., “Differentiable programming for piecewise polynomial functions,” in NeurIPS Workshop on Learning Meets Combinatorial Algorithms, 2020 <br><a href="https://openreview.net/forum?id=gXDMbkguCMY">Paper</a>
+1. Minsu Cho\*, Ameya Joshi\*, X. Y. Lee, et al., “Differentiable programming for piecewise polynomial functions,” in IEEE Data Science & Learning Workshop, 2021 <br><a href="https://openreview.net/forum?id=gXDMbkguCMY">Paper</a> 
 
-2. Sergio Botelho\*, Ameya Joshi\*, Biswajit Khara\*, Soumik Sarkar, Chinmay Hegde, Santi Adavani, and Baskar Ganapathysubramanian, Deep generative modelsthat solve pdes: Distributed computing for training large data-free models, arXiv:2007.12792, 2020 <br>
+2. Sergio Botelho\*, Ameya Joshi\*, Biswajit Khara\*, Soumik Sarkar, Chinmay Hegde, Santi Adavani, and Baskar Ganapathysubramanian, Deep generative models that solve pdes: Distributed computing for training large data-free models, Int. Conf. of High Perf. Comput., Netw.,Storage and Analy.(SC) Workshop on ML in HPC (MLHPC),<br>
 <a href="https://arxiv.org/abs/2007.12792">Preprint</a>
 
-3. Ameya Joshi, Biswajit Khara, Baskar Ganapathysubramanian, Soumik Sarkar, and Chinmay Hegde. Generative models for solving stochastic partial
-differential equations. In Proceedings of Asilomar Conf. Sig. Sys. Comput., Nov. 2020
+3. Ameya Joshi, Biswajit Khara, Baskar Ganapathysubramanian, Soumik Sarkar, and Chinmay Hegde. Generative models for solving stochastic partial differential equations. In Proceedings of Asilomar Conf. Sig. Sys. Comput., Nov. 2020
 
 4. Ameya Joshi\*, Minsu Cho\*, Viraj Shah, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde, InvNet: Encoding Invariances with Deep Generative Models, AAAI Conference on Artifical Intelligence, 2020 <br>
 <a target="_blank" href="publications/AAAI_InvNet.pdf">Paper</a> 
