@@ -10,8 +10,9 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 <small>`*` indicates equal contribution.</small>
 
 # Journal Publications
+1. G. Jagatap,A. Joshi, A. B. Chowdhury, S. Garg, and C. Hegde, “Adversarially robust learning via entropic regularization,”Frontiers in Artificial Intelligence, 2021 
 
-1. X. Lee, J. R. Waite, C.-H. Yang, B. Pokuri, Ameya Joshi, A. Balu, C. Hegde, B. Ganapathysubramanian, and S. Sarkar, “Fast inversedesign of microstructures via generative invariance networks,”Nature Computational Science, 2020
+2. X. Lee, J. R. Waite, C.-H. Yang, B. Pokuri, Ameya Joshi, A. Balu, C. Hegde, B. Ganapathysubramanian, and S. Sarkar, “Fast inversedesign of microstructures via generative invariance networks,”Nature Computational Science, 2020
 
 ## Conference/Workshops
 
@@ -61,10 +62,10 @@ ACM SIGGRAPH 2014 Posters<br>
 
 
 ## Preprints
+1. M. Cho,A. Joshi, S. Garg, B. Reagen, and C. Hegde, “Selective network linearization for efficient private inference, arXiVpreprint, arxiv:2202.02340, 2022
+ 
+2. 2.A. Joshi, G. Jagatap, and C. Hegde, “Adversarial token attacks on vision transformers, arXiV preprint, arxiv:2110.04337,2021
 
+3. Biswajit Khara, Aditya Balu, Ameya Joshi, Soumik Sarkar, Chinmay Hegde, Adarsh Krishnamurthy, Baskar Ganapathysubramanian, DiffNet: Neural Field Solutions of Parametric Partial Differential Equations, <br><a href="https://arxiv.org/abs/2110.01601">Preprint</a>
 
-1. Biswajit Khara, Aditya Balu, Ameya Joshi, Soumik Sarkar, Chinmay Hegde, Adarsh Krishnamurthy, Baskar Ganapathysubramanian, DiffNet: Neural Field Solutions of Parametric Partial Differential Equations, <br><a href="https://arxiv.org/abs/2110.01601">Preprint</a>
-
-2. Viraj Shah\*, Ameya Joshi\*, Sambuddha Ghosal, Balaji Pokuri, Soumik Sarkar, Baskar Ganapathysubramanian, Chinmay Hegde, Encoding Invariances with Deep Generative Models**<br>
-<a href="https://arxiv.org/abs/1906.01626">Preprint</a>
 
