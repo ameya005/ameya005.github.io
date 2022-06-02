@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.in/citati
 ## Conference/Workshops
 
 1. **Spotlight Talk** A. Joshi, G. Jagatap, and C. Hegde, “Adversarial token attacks on vision transformers, in CVPR Workshop on Transformers for Computer Vision, 2022 <br>
-<a target="_blank" href="publications/T4WCVPR_AdversarialRobustnessTransformers_final.pdf">Paper</a>
+<a target="_blank" href="/publications/T4WCVPR_AdversarialRobustnessTransformers_final.pdf">Paper</a>
 <br><a href="">Poster</a>
 <br><a href="">Presentation</a>
 
