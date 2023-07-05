@@ -75,7 +75,10 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Ameya Joshi
-description: I am a Research Scientist at Instadeep Ltd., Cambridge, MA. I primarily work on generative models for genomics and biology. I graduated with my PhD from New York University in 2023, where I worked on gerneative models and robust machine learning.
+description: I am a Research Scientist at Instadeep Ltd., Cambridge, MA. I primarily
+  work on generative models for genomics and biology. I graduated with my PhD from
+  New York University in 2023, where I worked on gerneative models and robust machine
+  learning.
 url: https://ameya005.github.io
 baseurl: ''
 repository: ameya005.github.io
