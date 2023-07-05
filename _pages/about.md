@@ -8,9 +8,10 @@ redirect_from:
 - "/about.html"
 ---
 
-**Update**: I am now on the job market! I graduated in Spring 2023, and am looking for Research Scientist/Research Engineer and Machine Learning Engineer roles.
 
-I graduated with a PhD from NYU Tandon, and was advised by [Dr. Chinmay Hegde](https://chinmayhegde.github.io/) during my time there. I was previously a PhD student at Iowa State University (2018-2019) with Dr. Hegde and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative models with structured constraints**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa in 2014.
+I am currently a Research Scientist at Instadeep Ltd., Cambridge, MA. I will be working on genomics and bio-related AI solutions leveraging and trainng foundation models.
+
+I graduated with a PhD from NYU Tandon in 2023, and was advised by [Dr. Chinmay Hegde](https://chinmayhegde.github.io/) during my time there. I was previously a PhD student at Iowa State University (2018-2019) with Dr. Hegde and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative models with structured constraints**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa in 2014.
 
 I interned at Meta as a Machine Learning SWE in the Instagram Reels Ranking team in summer'22. Here, I built ensemble based ranking models for Reels Ranking for various surfaces that improved user engagement by increasing training periodicity from daily to hourly.
 
