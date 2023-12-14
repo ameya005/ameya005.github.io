@@ -141,7 +141,9 @@ analytics:
 author:
   name: Ameya Joshi
   avatar: ameya-web.png
-  bio: I am a Research Scientist at InstaDeep AI, Boston, interested in multi-modal and sequence models. My current research focuses on building models for genomics and proteomics.
+  bio: I am a Research Scientist at InstaDeep AI, Boston, interested in multi-modal
+    and sequence models. My current research focuses on building models for genomics
+    and proteomics.
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
   email: a.joshi@instadeep.com
