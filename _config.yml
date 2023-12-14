@@ -141,11 +141,10 @@ analytics:
 author:
   name: Ameya Joshi
   avatar: ameya-web.png
-  bio: I am a PhD. student at New York University working primarily on deep generative
-    models and robust machine learning.
+  bio: I am a Research Scientist at InstaDeep AI, Boston, interested in multi-modal and sequence models. My current research focuses on building models for genomics and proteomics.
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
-  email: ameya.joshi@nyu.edu
+  email: a.joshi@instadeep.com
   github: ameya005
   linkedin: 
   orcid: 'https://orcid.org/0000-0003-1211-3945 '
