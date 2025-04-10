@@ -75,9 +75,9 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Ameya Joshi
-description: I am a Research Scientist at Instadeep Ltd., Cambridge, MA. I primarily
-  work on generative models for genomics and biology. I graduated with my PhD from
-  New York University in 2023, where I worked on gerneative models and robust machine
+description: I am a Research Scientist at Playground AI. I primarily
+  work on generative models for image generation and design. I graduated with my PhD from
+  New York University in 2023, where I worked on generative models and robust machine
   learning.
 url: https://ameya005.github.io
 baseurl: ''
@@ -141,12 +141,11 @@ analytics:
 author:
   name: Ameya Joshi
   avatar: ameya-web.png
-  bio: I am a Research Scientist at InstaDeep AI, Boston, interested in multi-modal
-    and sequence models. My current research focuses on building models for genomics
-    and proteomics.
+  bio:I am a Research Scientist at Playground AI. I primarily
+  work on generative models for image generation and design. I am currently building highly controllable generative pipelines for design
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
-  email: a.joshi@instadeep.com
+  email: ameya.joshi@nyu.edu
   github: ameya005
   linkedin: 
   orcid: 'https://orcid.org/0000-0003-1211-3945 '
