@@ -138,8 +138,7 @@ analytics:
 author:
   name: Ameya Joshi
   avatar: ameya-web.png
-  bio: I am a Research Scientist at Playground AI. I primarily
-  work on generative models for image generation and design. I am currently building highly controllable generative pipelines for design
+  bio: I am a Research Scientist at Playground AI. I primarily work on generative models for image generation and design. I am currently building highly controllable generative pipelines for design
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
   email: ameya.joshi@nyu.edu
