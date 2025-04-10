@@ -75,10 +75,7 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Ameya Joshi
-description: I am a Research Scientist at Playground AI. I primarily
-  work on generative models for image generation and design. I graduated with my PhD from
-  New York University in 2023, where I worked on generative models and robust machine
-  learning.
+description: I am a Research Scientist at Playground AI. I primarily work on generative models for image generation and design. I graduated with my PhD from New York University in 2023, where I worked on generative models and robust machine learning.
 url: https://ameya005.github.io
 baseurl: ''
 repository: ameya005.github.io
@@ -141,7 +138,7 @@ analytics:
 author:
   name: Ameya Joshi
   avatar: ameya-web.png
-  bio:I am a Research Scientist at Playground AI. I primarily
+  bio: I am a Research Scientist at Playground AI. I primarily
   work on generative models for image generation and design. I am currently building highly controllable generative pipelines for design
   location: New York, NY
   googlescholar: https://scholar.google.co.in/citations?user=jZgsp_sAAAAJ&hl=en
