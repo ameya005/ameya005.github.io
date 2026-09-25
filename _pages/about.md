@@ -8,7 +8,7 @@ redirect_from:
 - "/about.html"
 ---
 
-I am currently building foundational state-of-the-art video and image generative models at [Mirage AI](https://mirage.app/).
+I am currently building state-of-the-art VLMs and multimodal agentic systems at [Extend AI](https://www.extend.ai/).
 
 Prior to this, I was a Researcher at [Playground AI](https://playground.com/design) working on multimodal generative models and at Instadeep Ltd., Cambridge, MA., working on genomics and bio-related AI solutions leveraging and training foundation models.
 I graduated with a PhD from NYU Tandon in 2023, and was advised by [Dr. Chinmay Hegde](https://chinmayhegde.github.io/) during my time there. I was previously a PhD student at Iowa State University (2018-2019) with Dr. Hegde and [Dr. Soumik Sarkar](http://web.me.iastate.edu/soumiks////principal-investigator.html). My primary research areas are **Robust Learning of deep neural models** and **Generative models with structured constraints**. I graduated with Bachelors(Hons.) in Electrical and Electronics Engineering from BITS Pilani, Goa in 2014.
